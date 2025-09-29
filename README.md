@@ -19,9 +19,6 @@ This repository contains an analysis of a sales dataset conducted using Microsof
 <img width="294" height="33" alt="image" src="https://github.com/user-attachments/assets/dc91abcb-d335-423f-bc79-3aee11e1a6cb" />
 
 
-- **User-Defined Formulas** ✏️: 
-  Created custom formulas to address specific analytical needs, allowing for tailored calculations that standard functions could not achieve.
-
 - **Conditional Formatting** 🎨: 
   Applied to highlight key metrics and trends within the dataset, making it easier to identify outliers and significant data points at a glance.
 
